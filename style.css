@@ -10,6 +10,7 @@ h1 {
   border: 2px solid red;
   width: max-content;
   background: rgb(11, 13, 13);
+  transition:0.8;
 }
 .b h1:hover {
   transform: scale(1.3);
